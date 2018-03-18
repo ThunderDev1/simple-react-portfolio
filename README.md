@@ -1,11 +1,18 @@
 # simple-react-portfolio
 A simple responsive portfolio website
 
-React.js
-TypeScript
-Asp.Net core 2.0
+[Demo website](http://stephengranger.com)
+
+
+
+![Screenshot1](http://statics.blob.core.windows.net/portfolio/github-portfolio-capture.jpg "Screenshot1")
+
+* React.js
+* TypeScript
+* Asp.Net core 2.0
 
 Edit `ClientApp\assets\experiences.json` for content on the experience page.
+
 Go to `Controllers\HomeController` to setup emails for the contact form. I'm using SendGrid API to send the emails.
 
 ### Running the project
