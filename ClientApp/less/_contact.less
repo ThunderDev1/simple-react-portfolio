@@ -1,0 +1,21 @@
+.fading-message{
+    color: @green;
+    margin-bottom: 20px;
+    animation: fading-msg 0.5s 1;
+    -webkit-animation: fading-msg 0.5s 1;
+    animation-fill-mode: forwards;
+  
+    animation-delay:5s;
+    -webkit-animation-delay:5s; /* Safari and Chrome */
+    -webkit-animation-fill-mode: forwards;
+  } 
+  
+  @keyframes fading-msg{
+    from {opacity :1;}
+    to {opacity :0;}
+  }
+  
+  @-webkit-keyframes fading-msg{
+    from {opacity :1;}
+    to {opacity :0;}
+  }

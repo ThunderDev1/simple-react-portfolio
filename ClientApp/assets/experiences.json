@@ -1,0 +1,56 @@
+{
+	"experiences": [
+		{
+			"jobTitle": "Web developper",
+			"companyName": "My fake company",
+			"companyWebsite": null,
+			"description": "My fake company",
+			"bulletPoints": [
+				"Single page application with React/Redux/TypeScript",
+				"REST API Asp.Net Core 2.0",
+				"Authentication with IdentityServer4",
+				"Real time chat client using SignalR"
+			],
+			"skills": [
+				"C#",
+				"Asp.Net Core 2.0",
+				"React.js",
+				"TypeScript",
+				"Identity server",
+				"Mapbox GL",
+				"SignalR",
+				"Azure",
+				"EF Core",
+				"Service workers"
+			],
+			"imageLinks": [
+				"https://placehold.it/300",
+				"https://placehold.it/300",
+				"https://placehold.it/300"
+			],
+			"imageOrientation": "mobile",
+			"workPeriod": "October 2017 - Febuary 2018"
+		},
+		{
+			"jobTitle": "Programmer",
+			"companyName": "Big fake company",
+			"companyWebsite": null,
+			"description": "Multinational company specializing in network performance management software",
+			"bulletPoints": [
+				"Creation of a web application for dealing with internal purchase orders using ASP.Net",
+				"Administration of the company intranet running on Sharepoint",
+				"IT support (applications) via the HelpDesk"
+			],
+			"skills": [
+				"C#",
+				"ASP.Net 3.5",
+				"Javascript",
+				"SQL Server 2008"				
+			],
+			"imageLinks": [],
+			"imageOrientation": "",
+			"workPeriod": "September 2010 - November 2011"
+		}
+		
+	]
+}
