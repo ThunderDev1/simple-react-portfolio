@@ -1,8 +1,6 @@
 # simple-react-portfolio
 A simple responsive portfolio website
 
-[Demo website](http://stephengranger.com)
-
 
 
 ![Screenshot1](http://statics.blob.core.windows.net/portfolio/github-portfolio-capture.jpg "Screenshot1")
